@@ -21,7 +21,7 @@ Soy una persona apasionada por el aprendizaje constante de nuevas tecnologías, 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=py,tailwind,vite,typescript" />
   </a>
 </p>
 
