@@ -13,7 +13,7 @@ Soy una persona apasionada por el aprendizaje constante de nuevas tecnologías, 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,js,html,css,sass,bootstrap,nextjs,react,redux,nodejs,express,sequelize,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,discord,js,html,css,sass,bootstrap,nextjs,react,redux,nodejs,express,sequelize,postgres,py,django,sqlite,vite" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Soy una persona apasionada por el aprendizaje constante de nuevas tecnologías, 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tailwind,vite,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=tailwind,typescript,java" />
   </a>
 </p>
 
