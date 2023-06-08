@@ -9,11 +9,23 @@ Soy un apasionado del desarrollo Full Stack con una sólida formación en un cam
 Soy una persona apasionada por el aprendizaje constante de nuevas tecnologías, especialmente aquellas que sean relevantes en el campo en el que me desenvuelvo. Como Full Stack, tengo experiencia tanto en el desarrollo Front-end como en el Back-end. Además de mis sólidas habilidades técnicas, destaco por mi capacidad de liderazgo, trabajo en equipo y resolución de problemas.
 
 
-<h3 align="left">🧱 Tecnologías y Herramientas:</h3>
 
+<h3 align="left">💻 Lenguajes:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,js,html,css,sass,bootstrap,nextjs,react,redux,nodejs,express,sequelize,postgres,py,django,sqlite,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+  </a>
+</p>
+<h3 align="left">⚙️ Tecnologías:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,django,redux,sass,bootstrap,express,sequelize,sqlite,postgres" />
+  </a>
+</p>
+<h3 align="left">🧱 Herramientas:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,discord,figma,xd" />
   </a>
 </p>
 
