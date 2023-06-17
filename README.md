@@ -26,7 +26,7 @@ I am a person passionate about constantly learning new technologies, especially 
 <h3 align="left">🐱 I'm interested in learning... </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=tailwind,typescript,java,c#,net" />
   </a>
 </p>
 <h3 align="left">📞 Contact me at...</h3>
